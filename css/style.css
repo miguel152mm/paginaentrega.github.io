@@ -8,18 +8,13 @@
 	margin: auto;
 	position: relative;
 	color: #000;
-	
-
 }
-
-
 /*ETIQUETAS*/
 body{
 background-image: url(../img/fondo.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
-
 h1{
 font-family: 'Shadows Into Light', cursive;
 color: white;
@@ -27,7 +22,6 @@ margin-left: 10px;
 font-size: 60px;
 text-align: center; 
 }
-
 h2{
 	font-family: Verdana, Geneva, sans-serif;
 	color: #006680;
@@ -35,7 +29,6 @@ h2{
 	font-size: 15px;
 	text-align: center;
 }
-
 h3{
 	font-family: Verdana, Geneva, sans-serif;
 	;
@@ -43,38 +36,32 @@ h3{
 	font-size: 12px;
 	text-align: center;
 }
-
-
 header{
 	width: 1000px;
 	height: 120 px;
 	background: rgba(255, 255, 255, 10,70);
 }
-
 nav{
 	width: 1000px;
-	height: 55px;
-	background: #006680;
+	height: 65px;
+	background: #003f5e;
 	border-radius: 0px 0px 10px 10px;
 	color: #006680;
-
 }
 ul{
 margin: auto;
 padding-top: 4px;
 }
-
 li{
 	float: left;
 	list-style-type: none;
 	padding: 13px;
-	background: #006680;
+	background: #003f5e;
 	margin: 3px;
 	border-radius: 7px;
 	box-shadow: inset 0px 0px 10px white;
-
+	margin-top: 11px;
 }
-
 section{
 	width: 713px;
 	background: white;
@@ -92,18 +79,16 @@ aside{
 	margin-top: 7px;
 	border-radius: 0px 10px 0px 0px;
 }
-
 footer{
 	width: 1000px;
 	height: 50px;
-	background: #006680;
+	background: #003f5e;
 	float: left;
 	margin-top: 7px;
 	border-radius: 0px 0px 10px 10px;
 	margin-bottom: 20px;
 	font-size: 12px;
 }
-
 p{
 
 	font-size: 15px;
@@ -112,15 +97,9 @@ p{
 	padding: 10px;
 	text-align: justify;
 }
-
-
-
-
 /*CLASES*/
-
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
-
 .menu:link{color: white; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
 .menu:hover{
@@ -132,7 +111,6 @@ p{
 	color: #006680;
 	text-decoration: none;
 }
-
 /*SEUDO CLASES*/
 p {
 	font-size: 12px;
