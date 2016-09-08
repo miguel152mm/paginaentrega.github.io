@@ -46,6 +46,7 @@ summary {
 	display: block;
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 12px;
+	text-align: center;
 }
 
 /**
@@ -325,7 +326,8 @@ input::-moz-focus-inner {
  */
 
 input {
-  line-height: normal;
+	line-height: none;
+	border-radius: 2px;
 }
 
 /**
@@ -338,8 +340,9 @@ input {
 
 input[type="checkbox"],
 input[type="radio"] {
-  box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
+	box-sizing: border-box; /* 1 */
+	padding: 0;
+	margin-top: 6px;
 }
 
 /**
@@ -447,4 +450,7 @@ p {
 }
 p {
 	font-weight: bold;
+}
+strong {
+
 }
