@@ -16,21 +16,21 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 h1{
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Arial', cursive;
 color: white;
 margin-left: 10px;
 font-size: 60px;
 text-align: center; 
 }
 h2{
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: Arial;
 	color: #006680;
 	margin-left: 10px;
 	font-size: 15px;
 	text-align: center;
 }
 h3{
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: "Arial", Gadget, sans-serif;
 	;
 	color: white;
 	font-size: 11px;
@@ -116,6 +116,6 @@ p{
 /*SEUDO CLASES*/
 p {
 	font-size: 12px;
-	font-weight: bold;
+	font-weight: normal;
 	color: #333;
 }
