@@ -455,3 +455,21 @@ p {
 strong {
 
 }
+.class body header #apDiv1 #apDiv2 {
+	font-size: 10px;
+}
+div {
+	font-size: 12px;
+}
+#apDiv2 {
+	font-size: 12px;
+}
+#apDiv2 {
+	font-size: 9px;
+}
+#apDiv2 {
+	font-size: 10px;
+}
+.class body header #apDiv1 #apDiv2 {
+	font-size: 10px;
+}
